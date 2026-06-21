@@ -1,2 +1,14 @@
 # netiqy-lab
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
